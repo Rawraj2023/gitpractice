@@ -2,4 +2,4 @@
 
 ### Raja Rawat Practice Session
 
-### GITHUB TUTORIALS
+### GitHub Tutorial
